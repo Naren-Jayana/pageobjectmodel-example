@@ -25,7 +25,7 @@ public class LoginTest {
 		LoginPageObjects.loginButton(driver).click();*/
 		
 		
-		driver.close();
+		driver.quit();
 
 }
 }
